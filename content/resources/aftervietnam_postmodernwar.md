@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: AfterVietnam_PostmodernWar.pdf
 uid: 939f8c84-2937-32a0-3fad-0248ff53ff3d

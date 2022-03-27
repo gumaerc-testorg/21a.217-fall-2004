@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: 5_evolutn_of_war.pdf
 uid: 49c3c1bd-57b4-ad4a-3a01-ec754efc7e2c

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: 6_yugoslavia.pdf
 uid: 830efb6b-4448-4780-0355-0dd54de75b14

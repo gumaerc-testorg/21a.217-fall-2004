@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: CivilwarRwanda_lectureonwarsince1945.pdf
 uid: 37fcaa5b-d808-008e-937d-33c45c6feaab

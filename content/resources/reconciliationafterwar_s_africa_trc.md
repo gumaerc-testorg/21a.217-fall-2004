@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: Reconciliationafterwar_S_Africa_TRC.pdf
 uid: e9021b74-3d2e-fae4-2c70-15db9a24fe00

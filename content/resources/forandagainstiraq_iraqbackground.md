@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4e158fa0-e729-4774-8841-a8d1a3d2f1fe
 resourcetype: Document
 title: ForandAgainstIraq_IraqBackground.pdf
 uid: b8ca536f-4532-2b55-4cf7-3dce6fd7c8a8
