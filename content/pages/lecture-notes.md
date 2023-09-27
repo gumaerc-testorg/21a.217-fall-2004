@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The Lecture notes section contains class notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/1_introduction))
+Introduction ({{% resource_link ec4df173-5a0f-d251-4699-959b5bc1a51b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/1_introduction))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Is War "Natural"? ([PDF]({{< baseurl >}}/resources/2_is_war_natural))
+Is War "Natural"? ({{% resource_link c8213f6f-fddb-3bfd-d615-408cf94d2b77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ War and Sociobiology
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Experiences of War and Violence I ([PDF]({{< baseurl >}}/resources/4_primitive_war))
+Experiences of War and Violence I ({{% resource_link e6bf7de8-de44-dcb7-93b6-dbc48f134758 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Experiences of War and Violence I ([PDF]({{< baseurl >}}/resources/4_primitive_w
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Experiences of War and Violence II ([PDF]({{< baseurl >}}/resources/5_evolutn_of_war))
+Experiences of War and Violence II ({{% resource_link 49c3c1bd-57b4-ad4a-3a01-ec754efc7e2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Experiences of War and Violence II ([PDF]({{< baseurl >}}/resources/5_evolutn_of
 6-8
 {{< tdclose >}}
 {{< tdopen >}}
-Civil War and Genocide in Rwanda ([PDF 1]({{< baseurl >}}/resources/6_yugoslavia)) ([PDF 2]({{< baseurl >}}/resources/civilwarrwanda_lectureonwarsince1945))
+Civil War and Genocide in Rwanda ({{% resource_link 830efb6b-4448-4780-0355-0dd54de75b14 "PDF 1" %}}) ({{% resource_link 37fcaa5b-d808-008e-937d-33c45c6feaab "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ Darfur
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Reconciliation After War? ([PDF]({{< baseurl >}}/resources/reconciliationafterwar_s_africa_trc))
+Reconciliation After War? ({{% resource_link e9021b74-3d2e-fae4-2c70-15db9a24fe00 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Reconciliation After War? ([PDF]({{< baseurl >}}/resources/reconciliationafterwa
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Vietnam I ([PDF]({{< baseurl >}}/resources/vietnamilecture))
+Vietnam I ({{% resource_link 8fb03308-9b4c-d439-6303-fe78bb691082 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +119,7 @@ Vietnam I ([PDF]({{< baseurl >}}/resources/vietnamilecture))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-After Vietnam ([PDF]({{< baseurl >}}/resources/aftervietnam_postmodernwar))
+After Vietnam ({{% resource_link 939f8c84-2937-32a0-3fad-0248ff53ff3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ After Vietnam ([PDF]({{< baseurl >}}/resources/aftervietnam_postmodernwar))
 13-14
 {{< tdclose >}}
 {{< tdopen >}}
-The First Gulf War ([PDF]({{< baseurl >}}/resources/thefirstgulfwar_americanwarculture))
+The First Gulf War ({{% resource_link dd839ad0-cefd-baf5-c725-5b80cf7af06b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ The First Gulf War ([PDF]({{< baseurl >}}/resources/thefirstgulfwar_americanwarc
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Media and the First Gulf War ([PDF]({{< baseurl >}}/resources/mediaandthefirstgulfwar))
+Media and the First Gulf War ({{% resource_link 69e62f16-6c65-6788-434a-858fb8d60a52 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +155,7 @@ September 11
 17
 {{< tdclose >}}
 {{< tdopen >}}
-For and Against Invading Iraq I ([PDF]({{< baseurl >}}/resources/forandagainstiraq_iraqbackground))
+For and Against Invading Iraq I ({{% resource_link b8ca536f-4532-2b55-4cf7-3dce6fd7c8a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
