@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/37fcaa5bd808008e937d33c45c6feaab_CivilwarRwanda_lectureonwarsince1945.pdf
+file: /ol-ocw-studio-app/courses/21a-217-anthropology-of-war-and-peace-fall-2004/37fcaa5bd808008e937d33c45c6feaab_CivilwarRwanda_lectureonwarsince1945.pdf
 file_size: 33411
 file_type: application/pdf
 learning_resource_types:

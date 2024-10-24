@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource talks about hunter-gatherers, agricultural societies, and
   bureaucratization of war.
-file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/49c3c1bd57b4ad4a3a01ec754efc7e2c_5_evolutn_of_war.pdf
+file: /ol-ocw-studio-app/courses/21a-217-anthropology-of-war-and-peace-fall-2004/49c3c1bd57b4ad4a3a01ec754efc7e2c_5_evolutn_of_war.pdf
 file_size: 75570
 file_type: application/pdf
 learning_resource_types:
