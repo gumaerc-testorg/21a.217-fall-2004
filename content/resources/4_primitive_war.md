@@ -3,7 +3,7 @@ content_type: resource
 description: This resource talks about primitive warfare including Feud, Rules, Warfare
   is chaotic, fight to show will & save face, killing as spiritually invigorating,
   women and children fair game for New Guineans, and more wounding than killing.
-file: /ol-ocw-studio-app/courses/21a-217-anthropology-of-war-and-peace-fall-2004/e6bf7de8de44dcb793b6dbc48f134758_4_primitive_war.pdf
+file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/e6bf7de8de44dcb793b6dbc48f134758_4_primitive_war.pdf
 file_size: 27108
 file_type: application/pdf
 learning_resource_types:
