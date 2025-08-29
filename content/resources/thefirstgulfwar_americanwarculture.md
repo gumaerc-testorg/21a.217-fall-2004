@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /courses/21a-217-anthropology-of-war-and-peace-fall-2004/dd839ad0cefdbaf5c7255b80cf7af06b_TheFirstGulfWar_AmericanWarCulture.pdf
+file: /ol-ocw-studio-app/courses/21a-217-anthropology-of-war-and-peace-fall-2004/dd839ad0cefdbaf5c7255b80cf7af06b_TheFirstGulfWar_AmericanWarCulture.pdf
 file_size: 14872
 file_type: application/pdf
 learning_resource_types:
